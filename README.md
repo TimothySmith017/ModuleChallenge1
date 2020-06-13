@@ -26,5 +26,8 @@ Based on this data, I would recommend that Louise pick a launch date that is eit
 
 I would recommend that Louise **Avoid** any start date in the months of November - January.
 ---
+This section presents some limitations as well. Although it is nice to know about what launch months help guide a successful campaign, the tables and visualizations don't show describe how any other variables might impact whether or not a campaign is successful. 
 
+I believe it would be helpful if we had taken the difference in time between the End Date and the Start Date to get the total campaign length. It would be helpful for Louise to know how long to make her campaign. I believe she would be interested to know if certain campaigns were more successful if they had a shorter campaign length so that patrons felt more pressure to support the cause rather than put it off. 
 
+Another line chart could describe the success rate for campaigns depending on the total campaign length. When filtered in with campaign goals AND start date, adding the campaign length might allow Louise to maximize the effectiveness of her kickstarter campaign.
